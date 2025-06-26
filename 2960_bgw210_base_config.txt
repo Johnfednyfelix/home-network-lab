@@ -1,4 +1,4 @@
-! Cisco 2960 switch config for BGW210 uplink (cleaned for GitHub)
+! Cisco 2960 switch config for BGW210 uplink
 hostname SW-1
 
 interface Vlan1
